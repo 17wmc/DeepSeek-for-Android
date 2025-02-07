@@ -17,13 +17,10 @@
 
 - [项目简介](#-项目简介)
 - [准备工作](#-准备工作)
-- [Demo启动](#-运行-gradio-demo)
-- [Python推理](#-python-推理)
+- [Termux终端推理](#-Termux终端推理)
+- [部署 API 服务](#-部署 API 服务)
 - [联系我们](#-联系我们)
-- [FAQ](#faq)
-- [感谢支持](#-感谢支持)
-- [License](#-lincese)
-- [引用](#-引用)
+
 
 <br>
 
@@ -110,10 +107,7 @@ ollama run deepseek-r1:1.5b #拉取模型
 ```
 权重下载完毕就可以在命令行页面进行对话了。
 
-<video width="640" height="360" controls>
-  <source src="image/6.mp4" type="video/mp4">
-  您的浏览器不支持HTML5视频播放器。
-</video>
+<img src="./image/6.gif" alt="演示GIF" width="500">
 
 
 # ⚡️ 部署 API 服务
